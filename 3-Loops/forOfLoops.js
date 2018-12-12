@@ -4,9 +4,9 @@ for(item of student){
     console.log(item);
 }
 
-var catArray = ['tabby', 'burmese', 'tortie'];
+let catArray = ['tabby', 'burmese', 'tortie'];
 
-for(cat of catArrary) {
+for(cat of catArray) {
     console.log(cat);
 }
 
